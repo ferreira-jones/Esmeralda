@@ -24,7 +24,7 @@
 }
 header{
     color: white;
-    min-height: 150px;
+    min-height: 100px;
     text-align: center;
     padding-top:30px;
     background-color: black;
@@ -51,7 +51,7 @@ header > h1{
 }
 nav{
     background-color: #00463C;
-    padding: 20px;
+    padding: 10px;
     box-shadow: 0px 7px 7px #0000005e;
     text-align: center;
 }
@@ -65,6 +65,7 @@ nav > a{
 nav a:hover{
     background-color: #83ab8d;
     color: black;
+    padding: 10px;
 }
 div.quadrado {
     display: inline-block;
